@@ -30,5 +30,5 @@
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashkumarjena700&" alt="prakashkumarjena700" /></p>
-<p><img align="left" width="400px"  src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" alt="prakashkumarjena700" /></p>
+<p><img align="left" width="300px"  src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" alt="prakashkumarjena700" /></p>
 
