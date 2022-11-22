@@ -23,7 +23,7 @@
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
 </p>
 <br/>
-<p><img width="500px" align="right"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt=" " /></p>
+<p><img width="300px" align="right"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt=" " /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashkumarjena700&show_icons=true&locale=en&layout=compact" alt="prakashkumarjena700" /></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=prakashkumarjena700&show_icons=true&locale=en" alt="prakashkumarjena700" /></p>
