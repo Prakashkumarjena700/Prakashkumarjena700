@@ -1,4 +1,4 @@
-<img width='100%' src="https://i.ibb.co/Vxd9Tzw/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0">
+<img width='100%' hight='300px' src="https://i.ibb.co/Vxd9Tzw/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
