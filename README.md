@@ -1,7 +1,3 @@
-
-<h1 align="center">Hi <img width="35px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" />, I'm Prakash Kumar Jena 👨🏻‍💻</h1>
-<h3 align="center">A Competent MERN Stack Developer</h3>
-
 <a href="https://ibb.co/JqNtHG3"><img src="https://i.ibb.co/Vxd9Tzw/Blue-Modern-Tips-Business-Banner.png" alt="Blue-Modern-Tips-Business-Banner" border="0"></a>
 
 <h3 align="left">Connect with me:</h3>
