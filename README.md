@@ -2,8 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakash-kumar-jena-724b30244" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-kumar-jena-724b30244" height="40" width="50" /></a> &nbsp;
-  <a href="https://prakashkumarjena700.github.io/" target="blank"><img  src="https://www.portfoliopharma.com/wp-content/uploads/2019/09/portfolio-logo.png" alt="prakash-kumar-jena-724b30244" height="40" width="80" /></a>
+<a href="https://linkedin.com/in/prakash-kumar-jena-724b30244" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-kumar-jena-724b30244" height="40" width="50" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
