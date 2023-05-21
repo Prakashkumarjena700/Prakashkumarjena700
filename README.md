@@ -18,6 +18,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50"/> </a> &nbsp;
               <a href="https://chakra-ui.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/eec63163a5209f78e8b0e3d6ab82eb981d03c4453a7a466f4fdc063da09f2a4d/68747470733a2f2f692e696d6775722e636f6d2f454d796b5a62332e706e67" alt="chakra" width="50" height=""/> </a> &nbsp;
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50"/> </a> 
+         <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="Mui" width="50" height="50"/> </a> 
 </p>
 <br/>
 <p><img width="300px" align="right"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt=" " /></p>
