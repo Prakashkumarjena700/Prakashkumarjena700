@@ -1,4 +1,4 @@
-<img width='100%' hight='300px' src="https://s4.aconvert.com/convert/p3r68-cdx67/aa91s-xuxjl.jpg" border="0">
+<img width='100%' hight='300px' src="https://res.cloudinary.com/dkwrlyeva/image/upload/v1687695989/lkrukxibntb1rv8pjq98.png" border="0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
