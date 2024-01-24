@@ -3,6 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prakash-kumar-jena/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="prakash-kumar-jena-724b30244" height="40" width="50" /></a>
+<a href="https://prakashkumarjena700.github.io/" target="blank"><img src="https://img.freepik.com/premium-vector/link-sign-isolated-white-background-vector-illustration-eps-10_230920-1035.jpg" alt="prakash-kumar-jena-724b30244" height="40" width="50" /></a>    
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
